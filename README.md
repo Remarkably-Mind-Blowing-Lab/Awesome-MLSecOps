@@ -17,7 +17,7 @@
 ## Concern of Security in Data Layer
 
 - Data Collection (Dynamic Phase)
-  - Description: Data is gathered from various sources—APIs, sensors, web scraping, user input, etc.
+  - **Description: Data is gathered from various sources—APIs, sensors, web scraping, user input, etc.
   - Risks:
       - Data Poisoning Attacks: Attackers inject manipulated or biased data during collection.
       - Data Fetching Attacks: Malicious code or hijacked data streams compromise the incoming data in real time.
