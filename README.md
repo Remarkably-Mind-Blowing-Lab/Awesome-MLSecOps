@@ -14,12 +14,10 @@
 | [CalypsoAI](https://calypsoai.com) | AI security solutions to enable safe innovation. |
 | [Lakera](https://www.lakera.ai/) | Real-time security for GenAI applications without performance trade-offs. |
 
-## Concern of Security
+## Concern of Security in Data Layer
 
-### Data Layer
-
-#### -Data Collection
-
+- Data Collection (Dynamic Phase)
+  - Description:
 | Name | Type | Description |
 |---------|-------------|-------------|
 
