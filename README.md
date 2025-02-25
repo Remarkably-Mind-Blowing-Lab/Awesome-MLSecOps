@@ -18,6 +18,7 @@
 
 - Data Collection (Dynamic Phase)
   - Description:
+
 | Name | Type | Description |
 |---------|-------------|-------------|
 
