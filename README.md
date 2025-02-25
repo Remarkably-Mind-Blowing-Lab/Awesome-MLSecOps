@@ -18,6 +18,8 @@
 
 ### Data Layer
 
+#### Data Collection
+
 | Name | Type | Description |
 |---------|-------------|-------------|
 
