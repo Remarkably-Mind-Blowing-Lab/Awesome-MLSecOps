@@ -24,6 +24,7 @@
 
 | Name | Type | Description |
 |---------|-------------|-------------|
+| [Targeted Backdoor Attacks on Deep Learning Systems Using Data Poisoning](https://arxiv.org/pdf/1712.05526) | Academic Paper | This work describe the problem of data poisoning. |
 
 
 
