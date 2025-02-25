@@ -16,9 +16,9 @@
 
 ## Concern of Security
 
-### Data Layer
+### 1.Data Layer
 
-#### Data Collection
+#### (a).Data Collection
 
 | Name | Type | Description |
 |---------|-------------|-------------|
