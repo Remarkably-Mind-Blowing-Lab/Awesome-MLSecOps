@@ -22,9 +22,9 @@
       - **Data Poisoning Attacks:** Attackers inject manipulated or biased data during collection.
       - **Data Fetching Attacks:** Malicious code or hijacked data streams compromise the incoming data in real time.
 
-| Name | Type | Description |
+| Name | Description | Type |
 |---------|-------------|-------------|
-| [Targeted Backdoor Attacks on Deep Learning Systems Using Data Poisoning](https://arxiv.org/pdf/1712.05526) | Academic Paper | This work describe the problem of data poisoning. |
+| [Is Feature Selection Secure against Training Data Poisoning?](https://proceedings.mlr.press/v37/xiao15.html) | This work describe the problem of data poisoning. | Academic Paper |
 
 
 
