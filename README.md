@@ -24,7 +24,7 @@
 
 | Name | Description | Type |
 |---------|-------------|-------------|
-| [Is Feature Selection Secure against Training Data Poisoning?](https://proceedings.mlr.press/v37/xiao15.html) | This work describe the problem of data poisoning. | Academic Paper |
+| [Is Feature Selection Secure against Training Data Poisoning?](https://proceedings.mlr.press/v37/xiao15.html) | This work describe the problem of data poisoning. | Academic Paper / Data Poisoning |
 
 
 
