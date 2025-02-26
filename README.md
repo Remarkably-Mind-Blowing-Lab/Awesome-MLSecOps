@@ -20,9 +20,12 @@
   - **Description:** Data is gathered from various sources—APIs, sensors, web scraping, user input, etc.
   - **Risks:**
       - **Data Poisoning Attacks:** Attackers inject manipulated or biased data during collection.
-        + Is Feature Selection Secure against Training Data Poisoning? (ICML 2015) [[paper](https://proceedings.mlr.press/v37/xiao15.html)]
-        + Using Machine Teaching to Identify Optimal Training-Set Attacks on Machine Learners (AAAI 2015) [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/9569)]
       - **Data Fetching Attacks:** Malicious code or hijacked data streams compromise the incoming data in real time.
+- Data Preprocessing & Annotation (Dynamic Phase)
+  - **Description:** Raw data is cleaned, normalized, and labeled, possibly using both automated processes and human intervention.
+  - **Risks:**
+      - **Malicious Injection during Preprocessing:** Errors or deliberate manipulations (e.g., mislabeling) can occur as data is transformed.
+      - **Annotation Errors:** Intentional or unintentional misannotations can bias the training data.
 
 
 
