@@ -26,6 +26,15 @@
   - **Risks:**
       - **Malicious Injection during Preprocessing:** Errors or deliberate manipulations (e.g., mislabeling) can occur as data is transformed.
       - **Annotation Errors:** Intentional or unintentional misannotations can bias the training data.
+- Data Storage (Static Phase)
+  - **Description:** The preprocessed and annotated data is stored in databases or data warehouses for later use.
+  - **Risks:**
+      - **Fake Data Attacks:**  The stored dataset might be replaced or corrupted with spurious data.
+      - **Incomplete Data Attacks:** Missing or tampered data remains in the repository.
+      - **Data Tampering Attacks:** Stored data may be altered after the fact, leading to a compromised dataset.
+
++ Collection of Academic Papers :
+  + 
 
 
 
