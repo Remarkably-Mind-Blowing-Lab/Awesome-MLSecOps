@@ -65,5 +65,25 @@
     - **Sensitive Pattern Extraction:** Even if the model itself appears secure, it might reveal sensitive patterns or individual data points through carefully crafted queries. **(R6-Privacy)**  
     - **Unauthorized Model Extraction:** Improper access control to the model files could enable unauthorized extraction of underlying sensitive features. **(R7-Privacy)**  
     
+## Concern of Security and Privacy in APP Layer
 
+- **Model Optimization & Integration (Dynamic Phase)**  
+  - **Description:** The deployed model is further optimized for performance (e.g., via quantization, pruning, or transfer learning) and integrated into the application.
+  - **Risks:**
+    - **Quantization Attacks:** Exploiting the optimization process (e.g., precision loss) to manipulate model behavior. **(R18-Security)**  
+    - **Model Transfer Attacks:** During model migration or integration, attackers could extract or tamper with model parameters dynamically. **(R19-Security)**  
+    - **Insecure Data Management:** Insecure APIs, unencrypted data storage in the application, or flawed session management can expose user data. **(R8-Privacy)**  
 
+- **Application Development & Code Integration (Static Phase)**  
+  - **Description:** The application code (front-end/back-end) that leverages the model is developed, reviewed, and deployed.
+  - **Risks:**
+    - **Code Vulnerability Attacks:** Pre-existing vulnerabilities in the application code (e.g., remote code execution, SQL injection, XSS) which become a fixed risk if not patched. **(R20-Security)**  
+    - **Insecure API Integration:** Static misconfigurations in API usage or credentials that can be exploited. **(R21-Security)**  
+    - **Sensitive Log Exposure:** If logs are not sanitized or securely stored, they can become a vector for privacy breaches. **(R9-Privacy)**  
+- **Service Exposure & Runtime Monitoring (Dynamic Phase)**  
+  - **Description:** The final application, which includes the optimized model and integrated code, is exposed to end-users. It is actively monitored in a live environment.
+  - **Risks:**
+    - **Runtime Exploitation:** Attacks during API calls, including DDoS or injection attacks that occur on-the-fly. **(R22-Security)**  
+    - **Anomalous Behavior Detection:** Dynamic monitoring may reveal unusual patterns (e.g., sudden spikes in traffic, unexpected model outputs) indicative of ongoing attacks. **(R23-Security)**  
+    - **Unvetted Data Collection:** Third-party components may collect or transmit user data without adequate consent or security measures. **(R10-Privacy)**  
+    - **Side-Channel Data Leaks:** Inference through aggregate statistics or error messages could expose individual data details. **(R11-Privacy)**  
