@@ -24,7 +24,7 @@
 
 **Data Poisoning Attacks:**
 + Is Feature Selection Secure against Training Data Poisoning? (ICML 2015) [[paper](https://proceedings.mlr.press/v37/xiao15.html)]
-
++ Using Machine Teaching to Identify Optimal Training-Set Attacks on Machine Learners (AAAI 2015) [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/9569)]
 
 
 
