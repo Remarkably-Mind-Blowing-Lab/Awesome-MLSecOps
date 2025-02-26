@@ -8,7 +8,7 @@
 - [Database](#Database)
 - [Blogs and Publications](#Blogs)
 - [Books](#Books)
-- [Community Resources](#Community Resources)
+- [Community Resources](#Community-Resources)
 - [Concern of Security and Privacy in Data Layer](#Concern-of-Security-and-Privacy-in-Data-Layer)
 - [Concern of Security and Privacy in Model Layer](#Concern-of-Security-and-Privacy-in-Model-Layer)
 - [Concern of Security and Privacy in APP Layer](#Concern-of-Security-and-Privacy-in-APP-Layer)
