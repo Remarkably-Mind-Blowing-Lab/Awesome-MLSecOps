@@ -8,6 +8,15 @@
 - [Concern of Security and Privacy in Model Layer](#Concern-of-Security-and-Privacy-in-Model-Layer)
 - [Concern of Security and Privacy in APP Layer](#Concern-of-Security-and-Privacy-in-APP-Layer)
 
+## Open Source Security Resources
+
+| Resource | Description |
+|---------|-------------|
+| [awesome-data-poisoning-and-backdoor-attacks](https://github.com/penghui-yang/awesome-data-poisoning-and-backdoor-attacks) | Collection of papers in data poisoning and backdoor attacks. |
+
+## Open Source Privacy Resources
+
+
 ## Industry
 
 | Company | Description |
