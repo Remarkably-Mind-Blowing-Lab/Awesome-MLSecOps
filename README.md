@@ -22,7 +22,9 @@
       - **Data Poisoning Attacks:** Attackers inject manipulated or biased data during collection.
       - **Data Fetching Attacks:** Malicious code or hijacked data streams compromise the incoming data in real time.
 
-+ Is Feature Selection Secure against Training Data Poisoning?[[paper](https://proceedings.mlr.press/v37/xiao15.html)] 
+**Data Poisoning Attacks:**
++ Is Feature Selection Secure against Training Data Poisoning? (ICML 2015) [[paper](https://proceedings.mlr.press/v37/xiao15.html)]
+
 
 
 
