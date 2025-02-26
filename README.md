@@ -10,10 +10,10 @@
 
 ## Open Source Security Resources
 
-| Resource | Description |
-|---------|-------------|
-| [awesome-data-poisoning-and-backdoor-attacks](https://github.com/penghui-yang/awesome-data-poisoning-and-backdoor-attacks) | Collection of papers in data poisoning and backdoor attacks. |
-
+| Resource | Description | Risk |
+|---------|-------------|-------------|
+| [awesome-data-poisoning-and-backdoor-attacks](https://github.com/penghui-yang/awesome-data-poisoning-and-backdoor-attacks) | Collection of papers in data poisoning and backdoor attacks. | R1-S & R10-S |
+| [awesome-data-poisoning-and-backdoor-attacks](https://github.com/penghui-yang/awesome-data-poisoning-and-backdoor-attacks) | Collection of papers in data poisoning and backdoor attacks. |  |
 ## Open Source Privacy Resources
 
 
