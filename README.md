@@ -4,16 +4,17 @@
 - [Industry](#Industry)
 - [Open Source Security Resources](#Open-Source-Security-Resources)
 - [Open Source Privacy Resources](#Open-Source-Privacy-Resources)
+- [Database](#Database)
 - [Concern of Security and Privacy in Data Layer](#Concern-of-Security-and-Privacy-in-Data-Layer)
 - [Concern of Security and Privacy in Model Layer](#Concern-of-Security-and-Privacy-in-Model-Layer)
 - [Concern of Security and Privacy in APP Layer](#Concern-of-Security-and-Privacy-in-APP-Layer)
 
 ## Open Source Security Resources
 
-| Resource | Description | Risk |
+| Resource | Description | Type |
 |---------|-------------|-------------|
-| [awesome-data-poisoning-and-backdoor-attacks](https://github.com/penghui-yang/awesome-data-poisoning-and-backdoor-attacks) | Collection of papers in data poisoning and backdoor attacks. | R1-S & R10-S |
-| [awesome-data-poisoning-and-backdoor-attacks](https://github.com/penghui-yang/awesome-data-poisoning-and-backdoor-attacks) | Collection of papers in data poisoning and backdoor attacks. |  |
+| [awesome-data-poisoning-and-backdoor-attacks](https://github.com/penghui-yang/awesome-data-poisoning-and-backdoor-attacks) | Collection of papers in data poisoning and backdoor attacks. | Paper |
+
 ## Open Source Privacy Resources
 
 
