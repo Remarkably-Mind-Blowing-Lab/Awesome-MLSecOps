@@ -1,8 +1,8 @@
 # Awesome-MLSecOps
 
 ## Table of Contents
-- [Industry](Industry)
-- [Concern of Security in Data Layer](Concern-of-Security-in-Data-Layer)
+- [Industry](#Industry)
+- [Concern of Security in Data Layer](#Concern-of-Security-in-Data-Layer)
 
 ## Industry
 
