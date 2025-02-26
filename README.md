@@ -2,8 +2,11 @@
 
 ## Table of Contents
 - [Industry](#Industry)
-- [Concern of Security in Data Layer](#Concern-of-Security-in-Data-Layer)
-- [Open Source Security Resources in Data Layer](#Open-Source-Security-Resources-in-Data-Layer)
+- [Open Source Security Resources](#Open-Source-Security-Resources)
+- [Open Source Privacy Resources](#Open-Source-Privacy-Resources)
+- [Concern of Security and Privacy in Data Layer](#Concern-of-Security-and-Privacy-in-Data-Layer)
+- [Concern of Security and Privacy in Model Layer](#Concern-of-Security-and-Privacy-in-Model-Layer)
+- [Concern of Security and Privacy in APP Layer](#Concern-of-Security-and-Privacy-in-APP-Layer)
 
 ## Industry
 
