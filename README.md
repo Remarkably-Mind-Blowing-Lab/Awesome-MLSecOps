@@ -1,22 +1,19 @@
 # Awesome-MLSecOps
 
 ## Table of Contents
+
 - [Introduction to MLSecOps](#Introduction-to-MLSecOps)
 - [Security & Privacy Considerations in ML](#Security-&-Privacy-Considerations-in-ML)
 - [MLSecOps Phases](#MLSecOps-Phases)
-  - [Concern of Security and Privacy in Data Layer](#Concern-of-Security-and-Privacy-in-Data-Layer)
-  - [Concern of Security and Privacy in Model Layer](#Concern-of-Security-and-Privacy-in-Model-Layer)
-  - [Concern of Security and Privacy in Application Layer](#Concern-of-Security-and-Privacy-in-Application-Layer)
+  - [Security & Privacy in the Data Layer](#Security-&-Privacy-in-the-Data-Layer)
+  - [Security & Privacy in the Model Layer](#Security-&-Privacy-in-the-Model-Layer)
+  - [Security & Privacy in the Application Layer](#Security-&-Privacy-in-the-Application-Layer)
 - [Security Tools & Resources](#Security-Tools-&-Resources)
   - [Open Source Tools](#Open-Source-Tools)
-  - [Commercial Resources](#Commercial-Resources)
-  - [Books](#Books)
-  - [Database](#Database)
-  - [Blogs and Publications](#Blogs-and-Publications)
+  - [Commercial Tools & Solutions](#Commercial-Tools-&-Solutions)
+  - [Books & Publications](#Books-&-Publications)
   - [Community Resources](#Community-Resources)
 - [MLOps Infrastructure & DevSecOps](#MLOps-Infrastructure-&-DevSecOps)
-- [Community Contributions & Development](#Community-Contributions-&-Development)
-- [Academic Fields & Academic Resources](#Academic-Fields-&-Academic-Resources)
 
 ## Security Tools & Resources
 
@@ -59,12 +56,6 @@
 | [ARTkit](https://github.com/BCG-X-Official/artkit) | Automated prompt-based testing and evaluation for generative AI applications | R9-Security |
 | [LangBiTe](https://github.com/SOM-Research/LangBiTe) | A bias testing framework specifically for LLMs, detecting and mitigating bias in LLMs | R4-Security |
 | [OpenDP](https://github.com/opendp/opendp) | Core library for differential privacy algorithms powering the OpenDP Project | R1-Privacy, R2-Security |
-
-
-
-
-
-
 
 
 ## Industry
