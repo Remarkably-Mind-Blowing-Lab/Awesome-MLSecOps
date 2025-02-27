@@ -17,7 +17,7 @@
 
 ## Introduction to MLSecOps
 
-MLSecOps (Machine Learning Security Operations) is a comprehensive approach that combines machine learning (ML) development, operations (Ops), and security practices to ensure the safety, integrity, and privacy of machine learning models throughout their lifecycle. Just as DevSecOps integrates security into development and operations pipelines, MLSecOps emphasizes the importance of incorporating security at every stage of machine learning processes, from data collection to model deployment and monitoring.
+MLSecOps (Machine Learning Security Operations) is an emerging discipline that merges machine learning (ML), security, and operations (Ops) to create a holistic framework for addressing the unique security challenges posed by machine learning systems. With the growing use of machine learning models in critical applications—ranging from autonomous driving to medical diagnosis and financial services—the need to integrate security measures into the ML lifecycle has never been more pressing. MLSecOps builds on the principles of DevSecOps, which aims to ensure security is woven into every part of the software development lifecycle, and applies these principles to the realm of machine learning.
 
 ## Security Tools & Resources
 
