@@ -58,16 +58,6 @@
 | [OpenDP](https://github.com/opendp/opendp) | Core library for differential privacy algorithms powering the OpenDP Project | R1-Privacy, R2-Security |
 
 
-## Industry
-
-| Company | Description |
-|---------|-------------|
-| [ProtectAI](https://protectai.com/) | Security for machine learning models and AI systems. | 
-| [HiddenLayer](https://hiddenlayer.com/) | The ultimate security platform for AI. |
-| [Robust Intelligence](https://www.robustintelligence.com/) | Ensuring AI security and safety to drive enterprise adoption. |
-| [CalypsoAI](https://calypsoai.com) | AI security solutions to enable safe innovation. |
-| [Lakera](https://www.lakera.ai/) | Real-time security for GenAI applications without performance trade-offs. |
-
 ## Concern of Security and Privacy in Data Layer
 
 - **Data Collection (Dynamic Phase)**
