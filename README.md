@@ -17,7 +17,7 @@
 
 | Resource | Description | Risk |
 |---------|-------------|-------------|
-| [adversarial-robustness-toolbox](https://github.com/Trusted-AI/adversarial-robustness-toolbox) | Adversarial Robustness Toolbox (ART) - Python Library for Machine Learning Security - Evasion, Poisoning, Extraction, Inference - Red and Blue Teams | R-S(1,8,9,10) & R-P(5)｜
+| [adversarial-robustness-toolbox](https://github.com/Trusted-AI/adversarial-robustness-toolbox) | Adversarial Robustness Toolbox (ART) - Python Library for Machine Learning Security - Evasion, Poisoning, Extraction, Inference - Red and Blue Teams | R-S(1,8,9,10) & R-P(5) |
 
 
 
