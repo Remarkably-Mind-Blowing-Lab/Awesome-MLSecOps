@@ -14,11 +14,12 @@
 - [Concern of Security and Privacy in Model Layer](#Concern-of-Security-and-Privacy-in-Model-Layer)
 - [Concern of Security and Privacy in APP Layer](#Concern-of-Security-and-Privacy-in-APP-Layer)
 
-## Open Source Security Resources
+## Open Source Security Tools
 
-| Resource | Description | Type |
-|---------|-------------|-------------|
-| [awesome-data-poisoning-and-backdoor-attacks](https://github.com/penghui-yang/awesome-data-poisoning-and-backdoor-attacks) | Collection of papers in data poisoning and backdoor attacks. | Paper |
+| Resource | Description |
+|---------|-------------|
+| [ModelScan](https://github.com/protectai/modelscan) | ModelScan: Protection Against Model Serialization Attacks |
+
 
 ## Open Source Privacy Resources
 
