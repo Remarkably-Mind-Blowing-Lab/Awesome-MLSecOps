@@ -17,7 +17,7 @@
 
 | Tool | Description | Risk |
 |------|-------------|------|
-| [DeepSec](https://github.com/Malmo-Uppdrag/DeepSec) | A framework for evaluating the robustness of machine learning models against adversarial and other security threats. | R9-Security |
+| [DeepSec](https://github.com/ryderling/DEEPSEC) | A framework for evaluating the robustness of machine learning models against adversarial and other security threats. | R9-Security |
 | [AIF360](https://github.com/IBM/AIF360) | A library developed by IBM for detecting and mitigating bias in AI models to improve fairness and privacy. | R4-Security |
 | [PySyft](https://github.com/OpenMined/PySyft) | A flexible framework for building privacy-preserving machine learning models via federated learning, differential privacy, and encrypted computation. | R1-Privacy, R2-Security |
 | [Fairness Indicators](https://github.com/tensorflow/fairness-indicators) | Tools for assessing fairness and biases in machine learning models, focusing on metrics to identify potential risks in data and predictions. | R4-Security |
