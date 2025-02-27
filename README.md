@@ -15,9 +15,31 @@
 
 ## Open Source Tools
 
-| Resource | Description | Risk |
-|---------|-------------|-------------|
-| [adversarial-robustness-toolbox](https://github.com/Trusted-AI/adversarial-robustness-toolbox) | Adversarial Robustness Toolbox (ART) - Python Library for Machine Learning Security - Evasion, Poisoning, Extraction, Inference - Red and Blue Teams | R-S(1,8,9,10) & R-P(5) |
+| Tool | Description | Risk |
+|------|-------------|------|
+| [DeepSec](https://github.com/Malmo-Uppdrag/DeepSec) | A framework for evaluating the robustness of machine learning models against adversarial and other security threats. | R9-Security |
+| [AIF360](https://github.com/IBM/AIF360) | A library developed by IBM for detecting and mitigating bias in AI models to improve fairness and privacy. | R4-Security |
+| [PySyft](https://github.com/OpenMined/PySyft) | A flexible framework for building privacy-preserving machine learning models via federated learning, differential privacy, and encrypted computation. | R1-Privacy, R2-Security |
+| [Fairness Indicators](https://github.com/tensorflow/fairness-indicators) | Tools for assessing fairness and biases in machine learning models, focusing on metrics to identify potential risks in data and predictions. | R4-Security |
+| [FastGradientMethod](https://github.com/cleverhans-lab/cleverhans) | A part of CleverHans that implements the Fast Gradient Sign Method (FGSM) attack for evaluating and defending against adversarial attacks. | R9-Security |
+| [PyAttack](https://github.com/CyberSecurity4ML/PyAttack) | A framework for adversarial machine learning with several attack models that can be applied to a variety of ML models. | R9-Security |
+| [WhiteBoxML](https://github.com/ruohan2015/WhiteBoxML) | A framework to test the adversarial robustness of machine learning models through white-box attacks. | R9-Security |
+| [FedML](https://github.com/FedML-AI/FedML) | An open-source library for federated learning and privacy-preserving ML models, helping to protect sensitive data across distributed environments. | R1-Privacy |
+| [Wit.ai](https://github.com/wit-ai) | A toolkit for building conversational AI that can identify vulnerabilities such as privacy leakage in natural language processing systems. | R2-Privacy, R9-Security |
+| [Art of Adversarial Attack](https://github.com/danielgatis/art-of-adversarial-attack) | A set of adversarial attacks and defenses to test model robustness against real-world attacks, including evasion and poisoning. | R9-Security |
+| [SecML](https://github.com/UK-MAC/secml) | A machine learning library designed to support secure ML applications, focusing on adversarial training and security. | R9-Security |
+| [SafeML](https://github.com/safeml/safeml) | A tool for secure and explainable machine learning that focuses on model transparency and integrity during deployment. | R10-Security |
+| [Adversarial Robustness Toolkit](https://github.com/Trusted-AI/adversarial-robustness-toolbox) | A toolkit that provides a variety of attacks and defenses for evaluating adversarial robustness in ML models. | R9-Security, R10-Security |
+| [Model Inversion Attack ToolBox](https://github.com/ibm/model-inversion-attack-toolbox) | A framework for implementing model inversion attacks to expose data that was used for model training. | R5-Privacy |
+| [Snorkel](https://github.com/snorkel-team/snorkel) | A framework for semi-supervised learning and data augmentation, addressing the risk of data poisoning and mislabeling. | R1-Security, R4-Security |
+| [TRIKE](https://github.com/cyberark/trike) | A framework that focuses on security for AI/ML systems by detecting vulnerabilities across ML pipelines. | R5-Security |
+| [Adversarial Prompt Injection](https://github.com/fairlearn/adversarial-prompt-injection) | Framework for constructing adversarial prompts for large language models, focusing on prompt injection attacks. | R10-Security |
+| [Practical-ML-Security](https://github.com/Practical-ML-Security) | A practical guide to securing machine learning systems with tools, case studies, and mitigation techniques. | R10-Security |
+| [Robustness Gym](https://github.com/robustness-gym/robustness-gym) | A toolkit for evaluating the robustness of machine learning models, including performance under adversarial attacks. | R9-Security |
+| [Guardrails](https://github.com/NeMo-Guardrails/Guardrails) | A framework for adding guardrails and safety measures in large language model applications. | R10-Security |
+| [Shannon's Protector](https://github.com/ShannonProtect/ShannonProtector) | A tool focused on securing machine learning models from backdoor attacks and ensuring robustness during deployment. | R9-Security |
+| [Ensemble ML Defense](https://github.com/ensembleml/ensemble-ml) | A tool for building ensemble models that enhance security by combining multiple defensive models against adversarial attacks. | R9-Security |
+| [Privacy-Preserving Machine Learning](https://github.com/IBM/privacy-preserving-ml) | A framework for implementing privacy-preserving algorithms, such as federated learning and differential privacy. | R1-Privacy |
 
 
 
