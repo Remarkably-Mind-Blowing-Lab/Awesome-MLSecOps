@@ -65,30 +65,18 @@ MLSecOps (Machine Learning Security Operations) is an emerging discipline that m
 
 ### Commercial Tools & Solutions
 
-| Tool                               | Description                                                                                                                                              |
-|------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **AWS (Amazon Web Services)**      | Provides integrated services like **Amazon SageMaker** for model development and deployment with built-in security features such as IAM, VPC, and encryption. |
-| **Amazon Macie**                   | Uses machine learning to discover, classify, and protect sensitive data in Amazon S3, ensuring data privacy.                                               |
-| **AWS KMS (Key Management Service)**| Manages encryption keys to protect sensitive data and model files, ensuring secure data handling and storage.                                               |
-| **Amazon GuardDuty**               | A threat detection service that continuously monitors for malicious activity or unauthorized behavior to protect AWS resources.                          |
-| **Microsoft Azure**                | Offers tools like **Azure Machine Learning** for secure ML model deployment and **Azure Security Center** for unified security management and threat detection. |
-| **Azure Machine Learning**         | Secure ML model development and deployment platform with integrated data encryption, access control, and compliance tools.                               |
-| **Azure Sentinel**                 | A cloud-native SIEM (Security Information and Event Management) that provides security monitoring for cloud-based ML services.                            |
-| **Google Cloud Platform (GCP)**    | Provides services like **Vertex AI** for model development with secure deployment options such as IAM and VPC service controls.                           |
-| **Vertex AI**                      | Offers a unified platform for machine learning model development, deployment, and monitoring, with built-in security features like access control.        |
-| **Cloud Security Command Center**  | Provides visibility and security monitoring of GCP resources and workloads to detect vulnerabilities and ensure security across machine learning models.    |
-| **DataRobot**                      | An automated machine learning platform that integrates security features like model monitoring, bias detection, and adversarial protection for enterprises. |
-| **Databricks**                     | A unified analytics platform that offers end-to-end ML workflows, providing security features like data access controls, encrypted storage, and monitoring. |
-| **H2O.ai Driverless AI**           | Automated ML platform offering security against adversarial attacks and ensuring model transparency, explainability, and monitoring.                      |
-| **IBM Watson OpenScale**           | Ensures model transparency and trust, offering tools for continuous monitoring of bias, model drift, and adversarial risks with compliance features.        |
-| **Aqua Security**                  | Specializes in securing containerized and cloud-native environments, providing vulnerability scanning and runtime security for ML model containers.         |
-| **Palo Alto Networks Prisma Cloud**| Provides container and Kubernetes security with vulnerability scanning, configuration auditing, and runtime protection, supporting ML model containers.     |
-| **Snyk**                           | A DevSecOps tool that scans for vulnerabilities in code, dependencies, and container images, securing ML deployment pipelines.                              |
-| **Immuta**                         | A data governance platform offering fine-grained access controls, dynamic data masking, and compliance features to ensure privacy and security in ML data. |
-| **BigID**                          | Helps identify and classify sensitive data to ensure privacy and security compliance in machine learning data handling and usage.                           |
-| **Tonic.ai**                       | Provides synthetic data generation tools, preserving data privacy and enabling secure ML model development and testing without using real sensitive data.  |
-| **Fiddler AI**                     | A model monitoring and explainability platform that tracks performance, biases, and security risks in deployed machine learning models.                    |
-| **Robust Intelligence**            | Focuses on adversarial protection, offering automated testing for vulnerabilities in ML models and securing them against adversarial inputs.                 |
-| **Deloitte, PwC, EY (Consulting)** | Offers enterprise-level AI and ML security consulting, including risk assessments, compliance audits, and overall secure AI/ML framework development.        |
-| **Accenture**                      | Provides end-to-end digital transformation consulting, integrating security measures into machine learning models and ensuring safe deployment.            |
+| Tool | Description |
+|------|-------------|
+| [Databricks Platform, Azure Databricks](https://azure.microsoft.com/ru-ru/products/databricks) | Datalake data management and implementation tool |
+| [Hidden Layer AI Detection Response](https://hiddenlayer.com/aidr/) | Tool for detecting and responding to incidents |
+| [Guardian](https://protectai.com/guardian) | Model protection in CI/CD |
+| [Seldon](https://www.seldon.io) | Open-source platform for deploying and monitoring machine learning models with a focus on security and observability |
+| [Fortinet AI Security](https://www.fortinet.com) | AI-powered security solutions for proactive threat detection and response |
+| [Aqua Security](https://www.aquasec.com) | Cloud-native security platform to secure machine learning models in production |
+| [Privitar](https://www.informatica.com/) | Data privacy platform with ML-specific security features for data protection |
+| [RedHat OpenShift](https://www.openshift.com) | Kubernetes-based container platform with security tools for ML model deployment |
+| [Palo Alto Networks Cortex XSOAR](https://www.paloaltonetworks.com/cortex/cortex-xsoar) | AI-powered security automation platform for securing machine learning models and applications |
+
+
+
 
