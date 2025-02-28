@@ -77,6 +77,9 @@ MLSecOps (Machine Learning Security Operations) is an emerging discipline that m
 | [RedHat OpenShift](https://www.openshift.com) | Kubernetes-based container platform with security tools for ML model deployment |
 | [Palo Alto Networks Cortex XSOAR](https://www.paloaltonetworks.com/cortex/cortex-xsoar) | AI-powered security automation platform for securing machine learning models and applications |
 
+### Books & Publications
+
+
 
 
 
