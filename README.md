@@ -65,6 +65,8 @@ MLSecOps (Machine Learning Security Operations) is an emerging discipline that m
 
 ### Commercial Tools & Solutions
 
+| Tool | Description |
+|------|-------------|
 | [Seldon](https://www.seldon.io) | Open-source platform for deploying and monitoring machine learning models with a focus on security and observability |
 | [Fortinet AI Security](https://www.fortinet.com) | AI-powered security solutions for proactive threat detection and response |
 | [DataRobot MLOps](https://www.datarobot.com/mlops/) | Enterprise MLOps platform for managing machine learning models' lifecycle securely |
