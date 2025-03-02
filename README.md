@@ -82,8 +82,6 @@ MLSecOps (Machine Learning Security Operations) is an emerging discipline that m
 
 | Article | Description |
 |------|-------------|
-| | || Title | Description |
-|-------|-------------|
 | I Know What You Asked: Prompt Leakage via KV-Cache Sharing in Multi-Tenant LLM Serving | [Paper](https://arxiv.org/abs/2409.20002v2) |
 | Prompt-to-SQL Injections in LLM-Integrated Web Applications: Risks and Defenses | [Paper](https://syssec.dpss.inesc-id.pt/papers/pedro_icse25.pdf) |
 | My Model is Malware to You: Transforming AI Models into Malware by Abusing TensorFlow APIs | [Repo](https://github.com/ZJU-SEC/TensorAbuse) |
