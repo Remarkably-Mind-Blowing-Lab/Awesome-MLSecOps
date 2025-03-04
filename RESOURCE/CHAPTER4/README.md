@@ -1,23 +1,3 @@
-# Awesome-MLSecOps
-
-## Table of Contents
-
-- [Introduction to MLSecOps](#Introduction-to-MLSecOps)
-- [Security & Privacy Considerations in ML](#Security-&-Privacy-Considerations-in-ML)
-- [MLSecOps Phases](#MLSecOps-Phases)
-  - [Security & Privacy in the Data Layer](#Security-&-Privacy-in-the-Data-Layer)
-  - [Security & Privacy in the Model Layer](#Security-&-Privacy-in-the-Model-Layer)
-  - [Security & Privacy in the Application Layer](#Security-&-Privacy-in-the-Application-Layer)
-- [Security Tools & Resources](#Security-Tools-&-Resources)
-  - [Open Source Tools](#Open-Source-Tools)
-  - [Commercial Tools & Solutions](#Commercial-Tools-&-Solutions)
-  - [Books & Publications](#Books-&-Publications)
-  - [Community Resources](#Community-Resources)
-- [MLOps Infrastructure & DevSecOps](#MLOps-Infrastructure-&-DevSecOps)
-
-## Introduction to MLSecOps
-
-MLSecOps (Machine Learning Security Operations) is an emerging discipline that merges machine learning (ML), security, and operations (Ops) to create a holistic framework for addressing the unique security challenges posed by machine learning systems. With the growing use of machine learning models in critical applications—ranging from autonomous driving to medical diagnosis and financial services—the need to integrate security measures into the ML lifecycle has never been more pressing. MLSecOps builds on the principles of DevSecOps, which aims to ensure security is woven into every part of the software development lifecycle, and applies these principles to the realm of machine learning.
 
 ## Security Tools & Resources
 
@@ -112,12 +92,3 @@ MLSecOps (Machine Learning Security Operations) is an emerging discipline that m
 | Anatomy of an LLM RCE | [Link](https://www.cyberark.com/resources/threat-research-blog/anatomy-of-an-llm-rce) |
 | 老树开新花：大模型时代的代码执行沙箱 | [Link](https://mp.weixin.qq.com/s/X54d0foyBS56lGFUPyOvTw) |
 | 警惕Hugging Face开源组件风险被利用于大模型供应链攻击 | [Link](https://security.tencent.com/index.php/blog/msg/209) |
-
-
-### Community Resources
-
-| Community | Description |
-|------|-------------|
-
-
-
