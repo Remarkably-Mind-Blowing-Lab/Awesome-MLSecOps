@@ -1,6 +1,6 @@
 # Awesome-MLSecOps
 
-[<img src="FIGURE/title.webp" alt="Awesome-MLSecOps" width="1000" height="auto" class="center">](.)
+[<img src="FIGURE/title.webp" alt="Awesome-MLSecOps" width="500" height="auto" class="center">](.)
 
 ## Introduction to MLSecOps
 
