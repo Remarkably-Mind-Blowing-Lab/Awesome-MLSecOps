@@ -8,7 +8,7 @@
   - [Security & Privacy in the Data Layer](#Security-&-Privacy-in-the-Data-Layer)
   - [Security & Privacy in the Model Layer](#Security-&-Privacy-in-the-Model-Layer)
   - [Security & Privacy in the Application Layer](#Security-&-Privacy-in-the-Application-Layer)
-- [Security Tools & Resources](#Security-Tools-&-Resources)
+- [Security Tools & Resources](https://github.com/Remarkably-Mind-Blowing-Lab/Awesome-MLSecOps/tree/main/RESOURCE/CHAPTER4/README.md)
   - [Open Source Tools](#Open-Source-Tools)
   - [Commercial Tools & Solutions](#Commercial-Tools-&-Solutions)
   - [Books & Publications](#Books-&-Publications)
