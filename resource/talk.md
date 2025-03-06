@@ -1,4 +1,4 @@
-# Talk
+# Talk & Blog
 
 - [Practical LLM Security: Takeaways From a Year in the Trenches](https://www.blackhat.com/us-24/briefings/schedule/#practical-llm-security-takeaways-from-a-year-in-the-trenches-39468), offers insights from a year of real-world LLM security challenges and solutions
 - [Isolation or Hallucination? Hacking AI Infrastructure Providers for Fun and Weights](https://www.blackhat.com/us-24/briefings/schedule/#isolation-or-hallucination-hacking-ai-infrastructure-providers-for-fun-and-weights-40569), explores vulnerabilities in AI infrastructure that could lead to security breaches
