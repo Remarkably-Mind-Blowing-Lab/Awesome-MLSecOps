@@ -51,3 +51,4 @@
 - [TF-encrypted](https://tf-encrypted.io/), Encryption framework for TensorFlow  
 - [Agentic Security](https://github.com/msoedov/agentic_security), LLM vulnerability scanner and AI red teaming kit  
 - [ModelScan](https://github.com/protectai/modelscan), Protection Against ML Model Serialization Attacks
+- [AI-Infra-Guard](https://github.com/Tencent/AI-Infra-Guard), AI infrastructure security assessment tool designed to discover and detect potential security risks in AI systems.
