@@ -1,3 +1,3 @@
-# AI Bug Platform
+# ML Bug Bounty Platform
 
 [huntr](https://huntr.com/)
