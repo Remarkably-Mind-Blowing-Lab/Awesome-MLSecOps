@@ -9,20 +9,25 @@ MLSecOps (Machine Learning Security Operations) is an emerging discipline that m
 ## Framework of MLSecOps
 
 ## Collections
-- 📖 [Book](collection/book.md)
-- 🏆 [Competition](collection/competition.md)
-- 🏅 [Leaderboard](collection/leaderboard.md)
-- 🧰 [Toolkit](collection/toolkit.md) (10)
-- 📝 [Survey](collection/survey.md)
+- 📖 [Book](resource/book.md)
+- 🏆 [Competition](resource/competition.md)
+- 🏅 [Leaderboard](resource/leaderboard.md)
+- 🧰 [Toolkit](resource/toolkit.md) (10)
+- 📝 [Survey](resource/survey.md)
 - 📄 Paper 
-  - A. [Supply Chain Vulnerability](collection/supply_chain_vul.md)
-  - B. [Model Provenance](collection/model_provenance.md)
+  - A. [Supply Chain Vulnerability](resource/supply_chain_vul.md)
+  - B. [Model Provenance](resource/model_provenance.md)
   - C. Responsible AI
-    - C1. [Poison & Backdoor](collection/poison_backdoor.md)
-    - C2. [Adversarial Examples](collection/adversarial_examples.md)
-    - C3. [Ethics](collection/ethics.md)
-    - C4. [Fairness](collection/fairness.md)
-    - C5. [Accountability](collection/accountability.md)
-    - C6. [Transparency](collection/transparency.md)
-    - C7. [Privacy](collection/privacy.md)
+    - C1. [Poison & Backdoor](resource/poison_backdoor.md)
+    - C2. [Adversarial Examples](resource/adversarial_examples.md)
+    - C3. [Ethics](resource/ethics.md)
+    - C4. [Fairness](resource/fairness.md)
+    - C5. [Accountability](resource/accountability.md)
+    - C6. [Transparency](resource/transparency.md)
+    - C7. [Privacy](resource/privacy.md)
+   
+## Acknowledgement
+- Organizers: Ziqi Ding(丁子祺), Juncheng Ding(丁峻晨),Zihao Xu(徐梓皓),Yuekang Li(李悦康)
+- This project is inspired by
+
   
