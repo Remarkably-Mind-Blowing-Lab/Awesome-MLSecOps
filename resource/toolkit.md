@@ -1,7 +1,5 @@
 # Toolkit
 
-[ModelScan](https://github.com/protectai/modelscan), Protection Against ML Model Serialization Attacks
-
 [NB Defense](https://nbdefense.ai), Secure Jupyter Notebooks  
 [Garak](https://github.com/leondz/garak), LLM vulnerability scanner  
 [Adversarial Robustness Toolbox](https://github.com/IBM/adversarial-robustness-toolbox), Library of defense methods for ML models against adversarial attacks  
@@ -52,4 +50,4 @@
 [OpenDP](https://github.com/opendp/opendp), Core library for differential privacy algorithms  
 [TF-encrypted](https://tf-encrypted.io/), Encryption framework for TensorFlow  
 [Agentic Security](https://github.com/msoedov/agentic_security), LLM vulnerability scanner and AI red teaming kit  
-
+[ModelScan](https://github.com/protectai/modelscan), Protection Against ML Model Serialization Attacks
