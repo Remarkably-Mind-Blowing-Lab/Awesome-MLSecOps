@@ -27,7 +27,5 @@ MLSecOps (Machine Learning Security Operations) is an emerging discipline that m
     - C7. [Privacy](resource/privacy.md)
    
 ## Acknowledgement
-- Organizers: Ziqi Ding(丁子祺), Juncheng Ding(丁峻晨),Zihao Xu(徐梓皓),Yuekang Li(李悦康)
-- This project is inspired by
 
   
