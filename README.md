@@ -8,7 +8,7 @@ MLSecOps (Machine Learning Security Operations) is an emerging discipline that m
 
 ## Framework of MLSecOps
 
-## Collections(274)
+## Collections(280)
 - 🏆 [ML-Bug Bounty Platform](resource/mL-bug-bounty-platform.md)(1)
 - 🏅 [Leaderboard](resource/leaderboard.md)(6)
 - 🧰 [Toolkit](resource/toolkit.md)(52)
