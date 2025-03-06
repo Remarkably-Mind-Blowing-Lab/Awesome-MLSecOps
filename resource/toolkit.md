@@ -1,15 +1,10 @@
 # Toolkit
 
 [ModelScan](https://github.com/protectai/modelscan), Protection Against ML Model Serialization Attacks
-
 [NB Defense](https://nbdefense.ai), Secure Jupyter Notebooks  
-
 [Garak](https://github.com/leondz/garak), LLM vulnerability scanner  
-
 [Adversarial Robustness Toolbox](https://github.com/IBM/adversarial-robustness-toolbox), Library of defense methods for ML models against adversarial attacks  
-
 [MLSploit](https://github.com/mlsploit/), Cloud framework for interactive experimentation with adversarial machine learning research  
-
 [TensorFlow Privacy](https://github.com/tensorflow/privacy), Library of privacy-preserving machine learning algorithms and tools  
 [Foolbox](https://github.com/bethgelab/foolbox), Python toolbox for creating and evaluating adversarial attacks and defenses  
 [Advertorch](https://github.com/BorealisAI/advertorch), Python toolbox for adversarial robustness research  
