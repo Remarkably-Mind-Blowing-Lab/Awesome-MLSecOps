@@ -27,6 +27,6 @@ MLSecOps (Machine Learning Security Operations) is an emerging discipline that m
     - C7. [Privacy](resource/privacy.md)(30)
 
 ## Acknowledgement
-- [RMB Lab](https://github.com/Remarkably-Mind-Blowing-Lab)
+- [Remarkably Mind Blowing Lab](https://github.com/Remarkably-Mind-Blowing-Lab)
   
 <p align="center"><img src="figure/logo.png" width="100" /></p>
