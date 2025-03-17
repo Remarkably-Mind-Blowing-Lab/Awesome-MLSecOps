@@ -16,7 +16,7 @@ MLSecOps (Machine Learning Security Operations) is an emerging discipline that m
 - 🎤 [Talk & Blog](resource/talk.md)(27)
 - 📚 [Book](resource/book.md)(6)
 - 📋 [Awesome List](resource/awesome-list.md)(3)
-- 🎓 Academic Paper(187) 
+- 🎓 Academic Paper(187) (Details about the papers are [here](https://remarkably-mind-blowing-lab.github.io/Awesome-MLSecOps/).)
   - A. [Supply Chain Vulnerability](resource/supply_chain_vul.md)(27)
   - B. [Model Provenance](resource/model_provenance.md)(5)
   - C. Responsible AI(155)
